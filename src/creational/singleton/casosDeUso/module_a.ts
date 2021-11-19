@@ -1,4 +1,4 @@
-import { MyDatabaseClassic } from './db/my-database-classic';
+import { MyDatabaseClassic } from '../exemplos/my-database-as-class';
 
 const mydataDb = MyDatabaseClassic.getInstance();
 

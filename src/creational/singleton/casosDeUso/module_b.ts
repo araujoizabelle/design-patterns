@@ -1,4 +1,4 @@
-import { MyDatabaseClassic } from './db/my-database-classic';
+import { MyDatabaseClassic } from '../exemplos/my-database-as-class';
 
 // Para explicar multiplas instâncias
 import { mydataDb } from './module_a';
